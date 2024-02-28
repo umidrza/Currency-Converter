@@ -1,0 +1,36 @@
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\App.g.cs
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API_MarkupCompile.cache
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API_MarkupCompile.lref
+C:\Users\Hp\source\repos\CurrencyConverter_API\bin\Debug\CurrencyConverter_API.exe.config
+C:\Users\Hp\source\repos\CurrencyConverter_API\bin\Debug\CurrencyConverter_API.exe
+C:\Users\Hp\source\repos\CurrencyConverter_API\bin\Debug\CurrencyConverter_API.pdb
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\MainWindow.baml
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.g.resources
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.Properties.Resources.resources
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.exe
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.pdb
+C:\Users\Hp\source\repos\CurrencyConverter_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\CurrencyConverter_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hp\source\repos\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.CopyComplete
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\bin\Debug\CurrencyConverter_API.exe.config
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\bin\Debug\CurrencyConverter_API.exe
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\bin\Debug\CurrencyConverter_API.pdb
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\App.g.cs
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API_MarkupCompile.cache
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API_MarkupCompile.lref
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\MainWindow.baml
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.g.resources
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.Properties.Resources.resources
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.csproj.CopyComplete
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.exe
+C:\Users\Hp\source\repos\CURRENCY CONVERTER\CurrencyConverter_API\obj\Debug\CurrencyConverter_API.pdb
